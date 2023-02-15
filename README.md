@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there 🥊
 
+A little bit about me...
+
+```
+const tee = {
+  pronouns: 'he' | 'him' | 'ชาย',
+  code: [Javascript, Typescript, HTML, CSS, ReactJs, Python, .Net, C#, Dart, Flutter],
+  architecture: ['microservices', 'event-driven', 'design system pattern'],
+  challenge: 'I am exploring machine learning with python'
+}
+```
 <!--
 **tkaeophian/tkaeophian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
