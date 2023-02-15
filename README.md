@@ -5,7 +5,7 @@ A little bit about me...
 ```
 const tee = {
   pronouns: 'he' | 'him' | 'ชาย',
-  code: [Javascript, Typescript, HTML, CSS, ReactJs, Python, .Net, C#, Dart, Flutter],
+  code: [Javascript, Typescript, HTML, CSS, ReactJs, VueJs, Python, .Net, C#, Dart, Flutter],
   architecture: ['microservices', 'event-driven', 'design system pattern'],
   challenge: 'I am exploring machine learning with python'
 }
