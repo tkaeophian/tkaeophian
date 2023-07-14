@@ -4,10 +4,10 @@ A little bit about me...
 
 ```
 const tee = {
-  pronouns: 'he' | 'him' | 'ชาย',
+  pronouns: 'he' | 'him' | 'ผู้ชาย',
   code: [Javascript, Typescript, HTML, CSS, ReactJs, VueJs, Python, .Net, C#, Dart, Flutter],
   architecture: ['microservices', 'event-driven', 'design system pattern'],
-  challenge: 'I am exploring machine learning with python'
+  challenge: 'I am exploring machine learning with Python',
 }
 ```
 <!--
